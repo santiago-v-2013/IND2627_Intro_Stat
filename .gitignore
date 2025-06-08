@@ -1,2 +1,5 @@
 # Ignore the vscode configuration path
 .vscode/
+
+# Ignore all PDF files in the root and subdirectories
+*.pdf
